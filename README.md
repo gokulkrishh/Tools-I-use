@@ -49,7 +49,7 @@
    1. <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi" target="_blank">React Developer Tools</a> - Inspect the React component
    
    
-## Text Editor
+## Text Editors
 
    1. <a href="http://www.sublimetext.com/3" target="_blank">Sublime Text 3</a> - MAC, Windows, Ubuntu
 
