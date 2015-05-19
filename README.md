@@ -3,12 +3,12 @@
 *A list of tools and applications I use for Frontend Developement*
 
 ### Table of Contents
-1. [Browsers](#Browsers)
-1. [Extensions](#Extensions)
-1. [Text Editor](#Text-Editor)
-1. [Terminal](#Terminal)
-1. [Git Config](#Git-Config)
-1. [Perf Tools](#Perf-Tools)
+1. [Browsers](#browsers)
+1. [Extensions](#extensions)
+1. [Text Editor](#text-editors)
+1. [Terminal](#terminal)
+1. [Git Config](#git-config)
+1. [Perf Tools](#perf-tools)
 
 ## Browsers
 
@@ -32,7 +32,9 @@
    1. <a href="https://support.apple.com/downloads/safari" target="_blank">Safari</a>
    1. <a href="https://itunes.apple.com/in/app/chrome-web-browser-by-google/id535886823?mt=8" target="_blank">Chrome</a>
 
-## Extensions
+**[⬆ back to top](#table-of-contents)**
+
+## BrowserExtensions
 
    *Chrome* 
 	
