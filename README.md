@@ -5,7 +5,7 @@
 ### Table of Contents
 1. [Browsers](#browsers)
 1. [Extensions](#extensions)
-1. [Text Editor](#text-editors)
+1. [Text Editors](#text-editors)
 1. [Terminal](#terminal)
 1. [Git Config](#git-config)
 1. [Perf Tools](#perf-tools)
