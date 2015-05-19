@@ -21,13 +21,13 @@
    1. <a href="https://support.apple.com/downloads/safari" target="_blank">Safari</a> - Mac
    1. <a href="http://windows.microsoft.com/en-in/internet-explorer/download-ie" target="_blank">IE</a> - Windows
 
-   *Mobile Browser - Android* 
+*Mobile Browser - Android* 
 
    1. <a href="https://play.google.com/store/apps/details?id=com.chrome.beta&hl=en" target="_blank">Chrome Beta</a>
    1. <a href="https://play.google.com/store/apps/details?id=com.android.chrome&hl=en" target="_blank">Chrome</a>
    1. <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en" target="_blank">Firefox</a>
    
-   *Mobile Browser - iOS*
+*Mobile Browser - iOS*
 
    1. <a href="https://support.apple.com/downloads/safari" target="_blank">Safari</a>
    1. <a href="https://itunes.apple.com/in/app/chrome-web-browser-by-google/id535886823?mt=8" target="_blank">Chrome</a>
