@@ -7,7 +7,7 @@
 1. [Browser Extensions](#browser-extensions)
 1. [Text Editors](#text-editors)
 1. [Terminal](#terminal)
-1. [Git Config](#git-config)
+1. [Git](#git)
 1. [Perf Tools](#perf-tools)
 
 ## Browsers
@@ -38,22 +38,79 @@
 
    *Chrome* 
 	
-   1. <a href="https://chrome.google.com/webstore/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig?hl=en" target="_blank">Page Load Time</a> - A simple extenstion to show page load time
-   1. <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi" target="_blank">Allow Control Allow Origin</a> - Allows to you request any site with ajax from any source 
-   1. <a href="https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn" target="_blank">Page Ruler</a> - Draw a ruler to any page and view the width, height 
-   1. <a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm" target="_blank">What Font</a> - Identify fonts on web pages on mouse hover
-   1. <a href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm" target="_blank">Postman - REST Client</a> - Postman helps you be more efficient while working with API
-   1. <a href="http://www.editthiscookie.com/" target="_blank">Edit This Cookie</a> - A cookie manager
-   1. <a href="http://www.editthiscookie.com/" target="_blank">YSlow</a> - Make your pages faster with Yahoo!'s page performance tool
-   1. <a href="https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh" target="_blank">AngularJS Batarang</a> - Tool for debugging and profiling AngularJS applications
-   1. <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi" target="_blank">React Developer Tools</a> - Inspect the React component
+   * <a href="https://chrome.google.com/webstore/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig?hl=en" target="_blank">Page Load Time</a> - A simple extenstion to show page load time
+   * <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi" target="_blank">Allow Control Allow Origin</a> - Allows to you request any site with ajax from any source 
+   * <a href="https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn" target="_blank">Page Ruler</a> - Draw a ruler to any page and view the width, height 
+   * <a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm" target="_blank">What Font</a> - Identify fonts on web pages on mouse hover
+   * <a href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm" target="_blank">Postman - REST Client</a> - Postman helps you be more efficient while working with API
+   * <a href="http://www.editthiscookie.com/" target="_blank">Edit This Cookie</a> - A cookie manager
+   * <a href="http://www.editthiscookie.com/" target="_blank">YSlow</a> - Make your pages faster with Yahoo!'s page performance tool
+   * <a href="https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh" target="_blank">AngularJS Batarang</a> - Tool for debugging and profiling AngularJS applications
+   * <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi" target="_blank">React Developer Tools</a> - Inspect the React component
    
    
 ## Text Editors
 
    1. <a href="http://www.sublimetext.com/3" target="_blank">Sublime Text 3</a> - MAC, Windows, Ubuntu
 
-   *Sublime text plugins*
+*Sublime plugins & themes*
+
+   * <a href="https://packagecontrol.io/installation" target="_blank">Package control 3.0</a> - Package control 
+   * <a href="https://packagecontrol.io/packages/Emmet" target="_blank">HTML5</a> - HTML5 snippets
+   * <a href="https://packagecontrol.io/packages/Emmet" target="_blank">Emmet</a> - Expand abbreviations with <Tab> button
+   * <a href="https://packagecontrol.io/packages/BracketHighlighter" target="_blank">Bracket Highlighter</a> - Shows bracket opening and closing
+   * <a href="https://packagecontrol.io/packages/GitGutter" target="_blank">Git Gutter</a> - See git diff in gutter
+   * <a href="https://packagecontrol.io/packages/Markdown%20Preview" target="_blank">Markdown Preview</a> - See git markdown preview in browser
+   * <a href="https://packagecontrol.io/packages/Origami" target="_blank">Origami</a> - Split the window however you like
+   * <a href="https://packagecontrol.io/packages/OpenInBrowser" target="_blank">OpenIn Browser</a> - On save opens up a user defined URL in your default web browser
+   * <a href="https://packagecontrol.io/packages/SideBarEnhancements" target="_blank">SideBar Enhancements</a> - Enhancements to sidebar
+   * <a href="https://packagecontrol.io/packages/Material%20Color%20Scheme" target="_blank">Material Color Scheme</a> - Syntax theme based off the Material Design color palette
+
+
+## Terminal
+
+   1. <a href="https://github.com/robbyrussell/oh-my-zsh" target="_blank">oh my zsh</a> - MAC, Windows, Ubuntu terminal
+
+*oh my zsh plugins & themes & configs*
+   
+   * <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#af-magic" target="_blank">Af Magic</a> - Theme
+
+   [![robbyrussell](https://cloud.githubusercontent.com/assets/2618447/6316860/70f310d8-ba03-11e4-973c-eb5eb6b5b289.png)](https://cloud.githubusercontent.com/assets/2618447/6316860/70f310d8-ba03-11e4-973c-eb5eb6b5b289.png)
+
+
+   * <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#miloshadzic" target="_blank">Miloshadzic</a> - Theme
+
+   [![robbyrussell](https://cloud.githubusercontent.com/assets/2618447/6316748/51dc1eae-ba00-11e4-843d-379183044762.png)](https://cloud.githubusercontent.com/assets/2618447/6316748/51dc1eae-ba00-11e4-843d-379183044762.png)
+
+   * <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#git" target="_blank">Git</a> - Plugin
+
+## GIT
+
+   1. <a href="https://help.github.com/articles/set-up-git/" target="_blank">GIT Terminal</a> - MAC, Windows, Ubuntu
+
+*Tips*
+
+   * <a href="http://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574" target="_blank">Multiple Accounts</a> - To set up multiple git accounts
+
+
+## Perf Tools
+
+*Performance testing*
+   
+   * <a href="http://www.webpagetest.org/" target="_blank">Webpagetest</a> - Test a website's performance
+   * <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Pagespeed Insights</a> - Make your web pages fast on all devices
+   * <a href="https://tools.keycdn.com/speed" target="_blank">Speed Check</a> - A free online speed check service including waterfall breakdown and website preview
+
+*Markup validator*
+
+   * <a href="http://validator.w3.org/" target="_blank">Markup Validation</a> - Checks the markup validity of Web documents in HTML, XHTML, SMIL, MathML, etc
+
+*Responsive testing*
+
+   * <a href="https://developer.chrome.com/devtools/docs/device-mode" target="_blank">Device emulation</a> - Chrome device emulation
+   * <a href="http://resizr.co/" target="_blank">Resizr</a> - Test your responsive web page
+   * <a href="http://validator.w3.org/mobile/" target="_blank">W3C mobile Checker</a> - Checker performs various tests on a Web Page to determine its level of mobile-friendliness
+   * <a href="https://www.google.com/webmasters/tools/mobile-friendly/" target="_blank">Mobile Friendly</a> - Analyze a URL and report if the page has a mobile-friendly design
 
 
 More contents are coming soon....
