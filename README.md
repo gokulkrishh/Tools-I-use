@@ -47,7 +47,8 @@
    * <a href="http://www.editthiscookie.com/" target="_blank">YSlow</a> - Make your pages faster with Yahoo!'s page performance tool
    * <a href="https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh" target="_blank">AngularJS Batarang</a> - Tool for debugging and profiling AngularJS applications
    * <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi" target="_blank">React Developer Tools</a> - Inspect the React component
-   
+
+**[⬆ back to top](#table-of-contents)**  
    
 ## Text Editors
 
@@ -66,6 +67,7 @@
    * <a href="https://packagecontrol.io/packages/SideBarEnhancements" target="_blank">SideBar Enhancements</a> - Enhancements to sidebar
    * <a href="https://packagecontrol.io/packages/Material%20Color%20Scheme" target="_blank">Material Color Scheme</a> - Syntax theme based off the Material Design color palette
 
+**[⬆ back to top](#table-of-contents)**
 
 ## Terminal
 
@@ -83,6 +85,8 @@
    [![robbyrussell](https://cloud.githubusercontent.com/assets/2618447/6316748/51dc1eae-ba00-11e4-843d-379183044762.png)](https://cloud.githubusercontent.com/assets/2618447/6316748/51dc1eae-ba00-11e4-843d-379183044762.png)
 
    * <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#git" target="_blank">Git</a> - Plugin
+
+**[⬆ back to top](#table-of-contents)**
 
 ## GIT
 
@@ -112,6 +116,8 @@
    * <a href="http://validator.w3.org/mobile/" target="_blank">W3C mobile Checker</a> - Checker performs various tests on a Web Page to determine its level of mobile-friendliness
    * <a href="https://www.google.com/webmasters/tools/mobile-friendly/" target="_blank">Mobile Friendly</a> - Analyze a URL and report if the page has a mobile-friendly design
 
+
+**[⬆ back to top](#table-of-contents)**
 
 More contents are coming soon....
 
