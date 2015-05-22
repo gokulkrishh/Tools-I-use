@@ -69,7 +69,7 @@
    * <a href="https://packagecontrol.io/packages/Autoprefixer" target="_blank">Auto prefixer</a> - Prefix your CSS
    * <a href="https://packagecontrol.io/packages/SublimeLinter-jshint" target="_blank">jshint</a> - Shows jshint errors
    * <a href="https://packagecontrol.io/packages/Material%20Color%20Scheme" target="_blank">Theme - Material Color Scheme</a> - Syntax theme based off the Material Design color palette
-   * <a href="https://packagecontrol.io/packages/Theme%20-%20Cobalt2" target="_blank">Theme - Cobalt2</a>
+   * <a href="https://packagecontrol.io/packages/Theme%20-%20Cobalt2" target="_blank">Theme - Cobalt2</a> - Theme based on our old blue friend cobalt
 
 **[⬆ back to top](#table-of-contents)**
 
