@@ -66,6 +66,9 @@
    * <a href="https://packagecontrol.io/packages/OpenInBrowser" target="_blank">OpenIn Browser</a> - On save opens up a user defined URL in your default web browser
    * <a href="https://packagecontrol.io/packages/SideBarEnhancements" target="_blank">SideBar Enhancements</a> - Enhancements to sidebar
    * <a href="https://packagecontrol.io/packages/Material%20Color%20Scheme" target="_blank">Material Color Scheme</a> - Syntax theme based off the Material Design color palette
+   * <a href="https://packagecontrol.io/packages/AutoFileName" target="_blank">Auto​ File ​Name</a> - Autocomplete Filenames
+   * <a href="https://packagecontrol.io/packages/Autoprefixer" target="_blank">Auto prefixer</a> - Prefix your CSS
+   * <a href="https://packagecontrol.io/packages/SublimeLinter-jshint" target="_blank">jshint</a> - Shows jshint errors
 
 **[⬆ back to top](#table-of-contents)**
 
