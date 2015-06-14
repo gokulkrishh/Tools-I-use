@@ -68,8 +68,9 @@
    * <a href="https://packagecontrol.io/packages/AutoFileName" target="_blank">Auto​ File ​Name</a> - Autocomplete Filenames
    * <a href="https://packagecontrol.io/packages/Autoprefixer" target="_blank">Auto prefixer</a> - Prefix your CSS
    * <a href="https://packagecontrol.io/packages/SublimeLinter-jshint" target="_blank">jshint</a> - Shows jshint errors
-   * <a href="https://packagecontrol.io/packages/Material%20Color%20Scheme" target="_blank">Theme - Material Color Scheme</a> - Syntax theme based off the Material Design color palette
+   * <a href="https://packagecontrol.io/packages/Material%20Color%20Scheme" target="_blank">Color Scheme - Material</a> - Syntax theme based off the Material Design color palette
    * <a href="https://packagecontrol.io/packages/Theme%20-%20Cobalt2" target="_blank">Theme - Cobalt2</a> - Theme based on our old blue friend cobalt
+   * <a href="https://packagecontrol.io/packages/Material%20Theme" target="_blank">Theme - Material</a> - Theme based on google's Material Design (current theme in my sublime)
 
 **[⬆ back to top](#table-of-contents)**
 
