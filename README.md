@@ -47,6 +47,7 @@
    * <a href="http://www.editthiscookie.com/" target="_blank">YSlow</a> - Make your pages faster with Yahoo!'s page performance tool
    * <a href="https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh" target="_blank">AngularJS Batarang</a> - Tool for debugging and profiling AngularJS applications
    * <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi" target="_blank">React Developer Tools</a> - Inspect the React component
+   * <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh" target="_blank">Pesticide</a> - inserts the CSS into the current page, outlining each element to better see placement on the page
 
 **[⬆ back to top](#table-of-contents)**  
    
