@@ -58,7 +58,8 @@
 *Sublime plugins & themes*
 
    * <a href="https://packagecontrol.io/installation" target="_blank">Package control 3.0</a> - Package control 
-   * <a href="https://packagecontrol.io/packages/Emmet" target="_blank">HTML5</a> - HTML5 snippets
+   * <a href="https://packagecontrol.io/packages/HTML5" target="_blank">HTML5</a> - HTML5 snippets
+   * <a href="https://packagecontrol.io/packages/CSS%20Format" target="_blank">CSS Format</a> - To format CSS in different ways
    * <a href="https://packagecontrol.io/packages/Emmet" target="_blank">Emmet</a> - Expand abbreviations with <Tab> button
    * <a href="https://packagecontrol.io/packages/BracketHighlighter" target="_blank">Bracket Highlighter</a> - Shows bracket opening and closing
    * <a href="https://packagecontrol.io/packages/GitGutter" target="_blank">Git Gutter</a> - See git diff in gutter
