@@ -47,6 +47,7 @@
    * <a href="http://www.editthiscookie.com/" target="_blank">YSlow</a> - Make your pages faster with Yahoo!'s page performance tool
    * <a href="https://chrome.google.com/webstore/detail/yslow/ninejjcohidippngpapiilnmkgllmakh" target="_blank">AngularJS Batarang</a> - Tool for debugging and profiling AngularJS applications
    * <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi" target="_blank">React Developer Tools</a> - Inspect the React component
+   * <a href="https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh" target="_blank">Pesticide</a> - inserts the CSS into the current page, outlining each element to better see placement on the page
 
 **[⬆ back to top](#table-of-contents)**  
 
@@ -58,7 +59,8 @@
 *Sublime plugins & themes*
 
    * <a href="https://packagecontrol.io/installation" target="_blank">Package control 3.0</a> - Package control
-   * <a href="https://packagecontrol.io/packages/Emmet" target="_blank">HTML5</a> - HTML5 snippets
+   * <a href="https://packagecontrol.io/packages/HTML5" target="_blank">HTML5</a> - HTML5 snippets
+   * <a href="https://packagecontrol.io/packages/CSS%20Format" target="_blank">CSS Format</a> - To format CSS in different ways
    * <a href="https://packagecontrol.io/packages/Emmet" target="_blank">Emmet</a> - Expand abbreviations with <Tab> button
    * <a href="https://packagecontrol.io/packages/BracketHighlighter" target="_blank">Bracket Highlighter</a> - Shows bracket opening and closing
    * <a href="https://packagecontrol.io/packages/GitGutter" target="_blank">Git Gutter</a> - See git diff in gutter
@@ -69,6 +71,7 @@
    * <a href="https://packagecontrol.io/packages/AutoFileName" target="_blank">Auto​ File ​Name</a> - Autocomplete Filenames
    * <a href="https://packagecontrol.io/packages/Autoprefixer" target="_blank">Auto prefixer</a> - Prefix your CSS
    * <a href="https://packagecontrol.io/packages/SublimeLinter-jshint" target="_blank">jshint</a> - Shows jshint errors
+   * <a href="https://packagecontrol.io/packages/jQuery" target="_blank">jQuery</a> - jQuery methods as snippets
    * <a href="https://packagecontrol.io/packages/Material%20Color%20Scheme" target="_blank">Color Scheme - Material</a> - Syntax theme based off the Material Design color palette
    * <a href="https://packagecontrol.io/packages/Theme%20-%20Cobalt2" target="_blank">Theme - Cobalt2</a> - Theme based on our old blue friend cobalt
    * <a href="https://packagecontrol.io/packages/Material%20Theme" target="_blank">Theme - Material</a> - Theme based on google's Material Design (current theme in my sublime)
