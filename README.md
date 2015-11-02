@@ -12,7 +12,7 @@
 
 ## Browsers
 
-   *Desktop Browser* 
+   *Desktop Browser*
 
    1. <a href="https://www.google.com/chrome/browser/canary.html" target="_blank">Chrome Canary</a> - Mac & Windows
    1. <a href="http://www.google.com/chrome/" target="_blank">Chrome</a> - Mac, Windows, Ubuntu
@@ -21,12 +21,12 @@
    1. <a href="https://support.apple.com/downloads/safari" target="_blank">Safari</a> - Mac
    1. <a href="http://windows.microsoft.com/en-in/internet-explorer/download-ie" target="_blank">IE</a> - Windows
 
-*Mobile Browser - Android* 
+*Mobile Browser - Android*
 
    1. <a href="https://play.google.com/store/apps/details?id=com.chrome.beta&hl=en" target="_blank">Chrome Beta</a>
    1. <a href="https://play.google.com/store/apps/details?id=com.android.chrome&hl=en" target="_blank">Chrome</a>
    1. <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en" target="_blank">Firefox</a>
-   
+
 *Mobile Browser - iOS*
 
    1. <a href="https://support.apple.com/downloads/safari" target="_blank">Safari</a>
@@ -36,11 +36,11 @@
 
 ## Browser Extensions
 
-   *Chrome* 
-	
-   * <a href="https://chrome.google.com/webstore/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig?hl=en" target="_blank">Page Load Time</a> - A simple extenstion to show page load time
-   * <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi" target="_blank">Allow Control Allow Origin</a> - Allows to you request any site with ajax from any source 
-   * <a href="https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn" target="_blank">Page Ruler</a> - Draw a ruler to any page and view the width, height 
+   *Chrome*
+
+   * <a href="https://chrome.google.com/webstore/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig?hl=en" target="_blank">Page Load Time</a> - A simple extension to show page load time
+   * <a href="https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi" target="_blank">Allow Control Allow Origin</a> - Allows to you request any site with ajax from any source
+   * <a href="https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn" target="_blank">Page Ruler</a> - Draw a ruler to any page and view the width, height
    * <a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm" target="_blank">What Font</a> - Identify fonts on web pages on mouse hover
    * <a href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm" target="_blank">Postman - REST Client</a> - Postman helps you be more efficient while working with API
    * <a href="http://www.editthiscookie.com/" target="_blank">Edit This Cookie</a> - A cookie manager
@@ -49,14 +49,15 @@
    * <a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi" target="_blank">React Developer Tools</a> - Inspect the React component
 
 **[⬆ back to top](#table-of-contents)**  
-   
+
 ## Text Editors
 
    1. <a href="http://www.sublimetext.com/3" target="_blank">Sublime Text 3</a> - MAC, Windows, Ubuntu
+   1. <a href="https://atom.io/" target="_blank">Atom Editor</a> - MAC, Windows (My current editor, love it)
 
 *Sublime plugins & themes*
 
-   * <a href="https://packagecontrol.io/installation" target="_blank">Package control 3.0</a> - Package control 
+   * <a href="https://packagecontrol.io/installation" target="_blank">Package control 3.0</a> - Package control
    * <a href="https://packagecontrol.io/packages/Emmet" target="_blank">HTML5</a> - HTML5 snippets
    * <a href="https://packagecontrol.io/packages/Emmet" target="_blank">Emmet</a> - Expand abbreviations with <Tab> button
    * <a href="https://packagecontrol.io/packages/BracketHighlighter" target="_blank">Bracket Highlighter</a> - Shows bracket opening and closing
@@ -72,6 +73,14 @@
    * <a href="https://packagecontrol.io/packages/Theme%20-%20Cobalt2" target="_blank">Theme - Cobalt2</a> - Theme based on our old blue friend cobalt
    * <a href="https://packagecontrol.io/packages/Material%20Theme" target="_blank">Theme - Material</a> - Theme based on google's Material Design (current theme in my sublime)
 
+*Atom plugins & themes*
+
+  * <a href="https://atom.io/themes/atom-material-ui" target="_blank">Theme - Material UI</a> - Theme based on google's Material Design (current theme in my atom editor)
+  * <a href="https://atom.io/packages/run-in-browser" target="_blank">Run HTML in browser</a> - Run your html pages in browser
+  * <a href="https://atom.io/packages/browser-refresh-on-save" target="_blank">Reload on save</a> - Automatic reload on file save (Must have plugin)
+  * <a href="https://atom.io/packages/color-picker" target="_blank">Color Picker</a> - Right click or press CMD-SHIFT-C/CTRL-ALT-C to open picker
+  * <a href="https://atom.io/packages/react" target="_blank">ReactJS</a> - React.js (JSX) language support, indentation, snippets, auto completion, reformatting
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Terminal
@@ -79,7 +88,7 @@
    1. <a href="https://github.com/robbyrussell/oh-my-zsh" target="_blank">oh my zsh</a> - MAC, Windows, Ubuntu terminal
 
 *oh my zsh plugins & themes & configs*
-   
+
    * <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#af-magic" target="_blank">Af Magic</a> - Theme
 
    [![robbyrussell](https://cloud.githubusercontent.com/assets/2618447/6316860/70f310d8-ba03-11e4-973c-eb5eb6b5b289.png)](https://cloud.githubusercontent.com/assets/2618447/6316860/70f310d8-ba03-11e4-973c-eb5eb6b5b289.png)
@@ -105,7 +114,7 @@
 ## Perf Tools
 
 *Performance testing*
-   
+
    * <a href="http://www.webpagetest.org/" target="_blank">Webpagetest</a> - Test a website's performance
    * <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Pagespeed Insights</a> - Make your web pages fast on all devices
    * <a href="https://tools.keycdn.com/speed" target="_blank">Speed Check</a> - A free online speed check service including waterfall breakdown and website preview
@@ -150,5 +159,3 @@ License
 ----
 
 MIT
-
-
