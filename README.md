@@ -12,7 +12,7 @@
 
 ## Browsers
 
-   *Desktop Browser*
+*Desktop Browser*
 
    1. <a href="https://www.google.com/chrome/browser/canary.html" target="_blank">Chrome Canary</a> - Mac & Windows
    1. <a href="http://www.google.com/chrome/" target="_blank">Chrome</a> - Mac, Windows, Ubuntu
